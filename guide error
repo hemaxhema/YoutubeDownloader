@@ -1,1 +1,10 @@
-when you run program for the first time
+when you run program for the first time the program will download assets. don't close program while downloading.
+
+problem 1:
+if prgram doesn't work try delete youtubedownloader folder from C partion
+
+عند فتح البرنامج لأول مرة يتم تحميل الملفات المهمة لتشغيل البرنامج. لا تغلق البرنامج أثناء التحميل.
+
+المشكلة 1: 
+إن لم يعمل البرنامج جرب حذف
+youtubedownloader folder from C partion
